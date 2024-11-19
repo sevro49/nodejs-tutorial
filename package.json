@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "sevro49",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
