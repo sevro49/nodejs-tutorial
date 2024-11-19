@@ -1,1 +1,5 @@
 2024/11/20	00:46:04	baf1fb13-3951-494b-acaa-bfc4592aaabc	Error: Not allowed by CORS
+2024/11/20	01:29:13	0e0ef3fe-9cd9-409d-b950-468267c8c4b9	SyntaxError: Unexpected token , in JSON at position 50
+2024/11/20	01:29:28	349d20b2-0acb-430b-a789-da30424e9d50	SyntaxError: Unexpected token , in JSON at position 51
+2024/11/20	01:29:42	1dd6d1ea-669a-4263-b5ce-b1e6d2eb74b9	SyntaxError: Unexpected token , in JSON at position 51
+2024/11/20	01:29:44	8a7950a0-5301-4741-a8e4-9daaf02fbe1f	SyntaxError: Unexpected token , in JSON at position 53
