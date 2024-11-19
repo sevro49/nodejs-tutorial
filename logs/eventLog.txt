@@ -1,5 +1,0 @@
-2024/11/19	19:53:45	3fc9edb1-1e84-4088-ab80-6d0b8c6e9079	Log event emitted!
-2024/11/19	19:55:10	ea41edd4-8abb-458f-a301-1420e99cb652	Log event emitted!
-2024/11/19	19:55:15	f59f0ecc-264c-4dce-941f-462303ba0c29	Log event emitted!
-2024/11/19	19:55:20	dda7daea-ae49-4ff2-a87d-ee580f67228d	Log event emitted!
-2024/11/19	19:55:25	fa8c80a1-ba54-487e-9f60-93b5e91d2568	Log event emitted!
