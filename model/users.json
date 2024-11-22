@@ -1,1 +1,14 @@
-[{"username":"sevro","password":"$2b$10$gJjrIIQvp/wzeRb60XRVNee.cdmAPFSnjUmZkLDcCRmy9t8sJKABa"},{"username":"sevro49f","password":"$2b$10$edhdRussWwzTksfm4bhy7OGy3Cv4DZv30fORO.YgQlN9gUTSqhL9."},{"username":"sevro49","password":"$2b$10$MscV4qJNJUOwbOnh6HA.vOTzGIfxQWj.K3Il4CunzlzOtBSkjV4pS","refreshToken":""}]
+[
+  {
+    "username": "sevro49",
+    "roles": { "User": 2001 },
+    "password": "$2b$10$MscV4qJNJUOwbOnh6HA.vOTzGIfxQWj.K3Il4CunzlzOtBSkjV4pS",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNldnJvNDkiLCJpYXQiOjE3MzIyODE5NTgsImV4cCI6MTczMjM2ODM1OH0.YoOnWWUQGjmv4bS6YkN8UDSYg-JSZd-m39QVif-cwiE"
+  },
+  {
+    "username": "sevro",
+    "roles": { "User": 2001, "Admin": 5150 },
+    "password": "$2b$10$dW5vyNtuhLfTYcxQbJan5.fS/o1rMopLLcYO8HnSfERbmF2aGrPjm",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNldnJvIiwiaWF0IjoxNzMyMjgxOTgyLCJleHAiOjE3MzIzNjgzODJ9.T6aJqg0gFYvyciXEU3QcesyaMI3Nxpoqk1arNrigUfM"
+  }
+]
